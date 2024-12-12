@@ -1,0 +1,3 @@
+oranj - 5v
+rosu - gnd
+galben - 2
